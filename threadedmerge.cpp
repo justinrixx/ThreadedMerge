@@ -1,7 +1,7 @@
 /***************************************************************
 * Program: A multi-threaded merge sort implementation
 *
-*
+* Compile with: g++ -std=c++11 -pthread threadedmerge.cpp
 ****************************************************************/
 
 #include <iostream>
